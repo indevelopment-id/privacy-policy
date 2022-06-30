@@ -36,6 +36,7 @@ For the purposes of this Privacy Policy:
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to identify You. Personally identifiable information may include, but is not limited to:
 
 - Usage Data
+
 ### Usage Data
 Usage Data is collected automatically when using the Service.
 
