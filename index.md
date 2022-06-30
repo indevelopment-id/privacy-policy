@@ -61,6 +61,7 @@ We may share Your personal information in the following situations:
 - With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service.
 - For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
 - With Your consent: We may disclose Your personal information for any other purpose with Your consent.
+
 ## Retention of Your Personal Data
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
@@ -88,6 +89,7 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 - Prevent or investigate possible wrongdoing in connection with the Service
 - Protect the personal safety of Users of the Service or the public
 - Protect against legal liability
+
 ## Security of Your Personal Data
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
